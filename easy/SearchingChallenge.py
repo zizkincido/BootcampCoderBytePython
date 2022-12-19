@@ -14,4 +14,6 @@ def searching_challenge(str):
     return sum
 
 print(searching_challenge(input()))
+print(searching_challenge(input()))
+print(searching_challenge(input()))
 
